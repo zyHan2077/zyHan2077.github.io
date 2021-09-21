@@ -132,8 +132,8 @@ comments:
   gitalk:
     clientID    : 604a257914380551cac2 # GitHub Application Client ID
     clientSecret: 2aefb53e6cefbb4c0f18ce54eff697f7dcc68b0b # GitHub Application Client Secret
-    repository  : zyHan2077.github.io # GitHub repo
-    owner       : zyHan2077 # GitHub repo owner
+    repository  : zaohan415.github.io # GitHub repo
+    owner       : ZaoHan415 # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       - ZaoHan415
       - zyHan2077
