@@ -1,7 +1,7 @@
 ---
 title: triangulations & persistent homology
 tags: Note\笔记
-key: MFVariational
+key: Barcode_Triangulations
 layout: article
 license: true
 toc: true
